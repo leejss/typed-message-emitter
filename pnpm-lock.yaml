@@ -1,11 +1,13 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@types/events': ^3.0.0
   events: ^3.3.0
   typescript: ^4.9.5
   vitest: ^0.28.5
 
 devDependencies:
+  '@types/events': 3.0.0
   events: 3.3.0
   typescript: 4.9.5
   vitest: 0.28.5
@@ -218,6 +220,10 @@ packages:
 
   /@types/chai/4.3.4:
     resolution: {integrity: sha512-KnRanxnpfpjUTqTCXslZSEdLfXExwgNxYPdiO2WGUj8+HDjFi8R3k5RVKPeSCzLjCcshCAtVO2QBbVuAV4kTnw==}
+    dev: true
+
+  /@types/events/3.0.0:
+    resolution: {integrity: sha512-EaObqwIvayI5a8dCzhFrjKzVwKLxjoG9T6Ppd5CEo07LRKfQ8Yokw54r5+Wq7FaBQ+yXRvQAYPrHwya1/UFt9g==}
     dev: true
 
   /@types/node/18.14.1:
